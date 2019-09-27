@@ -1,5 +1,5 @@
 span {
-    color:lightpink;
+    color:hotpink;
 }
 
 img {
@@ -51,11 +51,11 @@ table, th, td{
 }
 
 body {
-    background-image: url("achtergrond.JPG");
+    background-image: url(seoul.jpg);
     background-repeat: no-repeat;
-    background-size: 1400px 700px;
+    background-size: cover;
     background-attachment: fixed;
-    color: white;
+    color: white        ;
 }
 
 h1 {
@@ -64,7 +64,7 @@ h1 {
 }
 
 h2 {
-    border: 6px solid lightpink;
+    border: 6px solid coral;
     width: 20%;
     text-align: center;
     margin: auto;
@@ -86,7 +86,7 @@ ol {
 
 
 .NavBar{
-    background-color: lightpink;
+    background-color: coral;
     padding: 12px;
     color: black;
     font-family: Georgia;
