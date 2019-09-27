@@ -61,6 +61,8 @@ body {
 h1 {
     text-align: center;
     border: 6px dotted white;
+    font-weight: 600;
+    font-family: Georgia;
 }
 
 h2 {
@@ -68,6 +70,7 @@ h2 {
     width: 20%;
     text-align: center;
     margin: auto;
+    font-family: Georgia;
 }
 
 div {
@@ -90,4 +93,8 @@ ol {
     padding: 12px;
     color: black;
     font-family: Georgia;
+}
+
+.formulier{
+    margin-top: 60px;
 }
